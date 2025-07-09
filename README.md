@@ -1,4 +1,4 @@
-```markdown
+
 # 🌤️ Interactive Weather Data Dashboard
 
 A responsive web app built with **Next.js**, **TypeScript**, and **Tailwind CSS** for visualizing historical weather data using the **Open-Meteo API** and **Recharts**.
